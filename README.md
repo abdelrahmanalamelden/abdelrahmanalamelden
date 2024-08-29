@@ -1,6 +1,6 @@
-# 🚀 Abdelrahman Ashraf | Frontend Developer 🚀
+# 🚀 Abdelrahman Alam-Elden | Frontend Developer 🚀
 
-Welcome to my GitHub profile! I'm Abdelrahman Ashraf, a dedicated and enthusiastic frontend developer with a passion for crafting beautiful and interactive web experiences using React.js. Dive into my world of code and creativity!
+Welcome to my GitHub profile! I'm Abdelrahman Alam-Elden, a dedicated and enthusiastic frontend developer with a passion for crafting beautiful and interactive web experiences using React.js. Dive into my world of code and creativity!
 
 ![Black Minimalist UIUX Designer LinkedIn Banner](https://github.com/user-attachments/assets/92638056-b29c-4e7e-90b7-6500041a743f)
 
@@ -59,7 +59,7 @@ My personal portfolio website showcasing my projects, skills, and contact inform
 I'm always open to new opportunities and collaborations! Feel free to connect with me:
 
 - **Email**: [abdo23027@gmail.com](mailto:abdo23027@gmail.com)
-- **LinkedIn**: [linkedin.com/in/abdelrahmanalamelden](https://linkedin.com/in/abdelrahmanalameldend)
+- **LinkedIn**: [linkedin.com/in/abdelrahmanalamelden]([https://linkedin.com/in/abdelrahmanalameldend](https://www.linkedin.com/in/abdelrahmanalamelden/))
 - **Twitter**: [@abdoalamelden](https://twitter.com/abdoalamelden)
 
 ---
