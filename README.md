@@ -59,7 +59,7 @@ My personal portfolio website showcasing my projects, skills, and contact inform
 I'm always open to new opportunities and collaborations! Feel free to connect with me:
 
 - **Email**: [abdo23027@gmail.com](mailto:abdo23027@gmail.com)
-- **LinkedIn**: [linkedin.com/in/abdelrahmanalamelden]((https://www.linkedin.com/in/abdelrahmanalamelden/))
+- **LinkedIn**: [linkedin.com/in/abdelrahmanalamelden](https://www.linkedin.com/in/abdelrahmanalamelden/)
 - **Twitter**: [@abdoalamelden](https://twitter.com/abdoalamelden)
 
 ---
