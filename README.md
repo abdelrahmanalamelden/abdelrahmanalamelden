@@ -36,13 +36,34 @@ I specialize in building dynamic, user-centric web applications with React.js. W
 
 ## 🚀 Featured Projects
 
-### [🛠️ React Weather App](https://github.com/yourusername/react-weather-app)
-![Weather App](https://via.placeholder.com/400x200?text=Weather+App)
-A sleek and responsive weather app built with React.js, featuring real-time weather updates and a beautiful UI.
+### [🛠️ Frontend Monitor - Realistic Coding Challenges 🚀](https://github.com/abdelrahmanalamelden/Frontend-Monitor-Solutions)
+![Screenshot (56)](https://github.com/user-attachments/assets/458b3257-0441-4698-930e-842a40094d1a)
+Completed over 20 professionally designed coding challenges on Frontend Monitor, aimed at improving my skills in HTML, CSS, and JavaScript. These hands-on projects provided a realistic experience in building fully functional web components, enhancing my ability to turn design concepts into high-quality, responsive code. 💻✨
 
-### [📚 Portfolio Website](https://github.com/yourusername/portfolio-website)
-![Portfolio](https://via.placeholder.com/400x200?text=Portfolio)
-My personal portfolio website showcasing my projects, skills, and contact information.
+Role: Front-end Developer 👨‍💻
+Technologies Used: HTML, CSS, JavaScript 📜
+
+Key Features:
+
+Solved 20+ real-world coding challenges 🛠️
+Focused on turning detailed designs into responsive, interactive web components 📱
+Gained hands-on experience in modern front-end development practices 💡
+
+Achievements:
+Improved coding skills and problem-solving abilities through practical projects 🧩
+Developed a strong foundation in HTML, CSS, and JavaScript by working on diverse tasks 🏗️
+Enhanced my ability to write clean, efficient, and maintainable code 🧼📝
+
+### [📚 Omnifood - Responsive Restaurant Website](https://github.com/abdelrahmanalamelden/omnifood-project)
+![app-screen-1](https://github.com/user-attachments/assets/6278efbc-ca33-4e3b-869b-fc8596b695c1)
+Developed 'Omnifood,' a fully responsive restaurant website using HTML, CSS, and JavaScript. The project emphasizes modern web design principles and best practices, offering a seamless user experience across all devices. Key features include interactive elements, smooth scrolling, and an intuitive layout that enhances user engagement.
+Role: Front-end Developer
+Technologies Used: HTML, CSS, JavaScript
+Key Features:
+Fully responsive design for all devices (mobile, tablet, desktop)
+Interactive elements using JavaScript
+Adherence to modern design principles and usability guidelines
+Clean, structured, and maintainable code
 
 ---
 
