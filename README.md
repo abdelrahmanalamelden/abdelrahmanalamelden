@@ -54,6 +54,14 @@ My personal portfolio website showcasing my projects, skills, and contact inform
 
 ---
 
+## 🏛 Education
+
+- **Aug 2020 - July 2025**: Bachelor of Electronic Engineering, Faculty of Electronic Engineering,
+   Menoufia University, Egypt 
+
+---
+
+
 ## 📬 Get in Touch
 
 I'm always open to new opportunities and collaborations! Feel free to connect with me:
