@@ -9,7 +9,13 @@ Welcome to my GitHub profile! I'm Abdelrahman Alam-Elden, a dedicated and enthus
 
 ## 🌟 About Me
 
-I specialize in building dynamic, user-centric web applications with React.js. With a keen eye for design and a love for clean, efficient code, I transform ideas into reality. Let's create something amazing together!
+Front-End Developer with a strong foundation in React.js, JavaScript , TypeScript, Angular, and Node.js,
+complemented by a background in electronic engineering from Menoufia University. I excel in building
+responsive and user-friendly web applications, with hands-on experience in delivering scalable solutions for
+dynamic projects, including e-commerce platforms. Skilled in using modern technologies like Express and
+databases, I am committed to crafting efficient, intuitive user interfaces that exceed expectations. I thrive in
+collaborative environments, continuously expanding my skills and staying ahead of industry trends. Seeking to
+contribute to innovative teams where I can leverage my expertise to drive impactful digital solutions.
 
 ---
 
@@ -17,7 +23,12 @@ I specialize in building dynamic, user-centric web applications with React.js. W
 
 - **Frontend Mastery**:
   - React.js
+  - Angular
   - JavaScript (ES6+)
+  - Typescript
+  - MONGODB
+  - Node.js
+  - Express
   - HTML5 & CSS3
   - Responsive Design & Flexbox
   - State Management (Redux)
@@ -26,6 +37,10 @@ I specialize in building dynamic, user-centric web applications with React.js. W
   - Tailwind CSS & Material-UI
   - RESTful APIs & Axios
   - Git & GitHub
+  - React.js
+  - Angular
+  - Node.js
+  - Express
 
 ![Tech Stack](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -35,6 +50,32 @@ I specialize in building dynamic, user-centric web applications with React.js. W
 ---
 
 ## 🚀 Featured Projects
+
+### [Resturant Website - a Full-Stack Web Development Project! 🍽️](https://github.com/abdelrahmanalamelden/Restaurant-Website/tree/master)
+![Screenshot (56)](https://www.figma.com/proto/90nADs8grMDEjdEHOUWFEZ/Food---Website-Design-(Community)-(Community)?node-id=0-655&node-type=frame&t=93SiPR5Ql5lgOtgQ-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+I'm excited to share my latest project, a fully functional Food Ordering Platform with a range of features aimed at providing a seamless user and admin experience
+Role: Front-end Developer 👨‍💻
+Technologies Used: HTML, CSS, JavaScript, Typescript , Angular , Node.js, Express, MONGODB 📜
+
+Key Features:
+
+🔑 Authentication & Security:
+
+User registration and login implemented with JWT (JSON Web Tokens) for secure session management.
+Password hashing using bcrypt to ensure user data is safely stored.
+📄 Data Management:
+
+Integrated with MongoDB for storing and retrieving meal data.
+Built API routes for fetching meal data to dynamically update the meals page.
+👨‍💼 Admin Panel:
+
+Admin users can add, update, and delete meals directly through the platform.
+Implemented route protection to secure admin-specific functionalities.
+🌐 Full-Stack Expertise:
+
+Front-end developed using Angular for a responsive user interface.
+Back-end built with Node.js, Express, and MongoDB to ensure efficient data handling and API integration.
+
 
 ### [🛠️ Frontend Monitor - Realistic Coding Challenges 🚀](https://github.com/abdelrahmanalamelden/Frontend-Monitor-Solutions)
 ![Screenshot (56)](https://github.com/user-attachments/assets/458b3257-0441-4698-930e-842a40094d1a)
@@ -69,8 +110,12 @@ Clean, structured, and maintainable code
 
 ## 🧩 My Coding Journey
 
-- **Jun 2022 - Aug 2022**: egFWD Internship as a Web Developer 
-- **Dec 2022- Dec2023**: كالبنيان المرصوص Internship as a Software Engineer 
+-  **Aug 2024- Current** : Internship at Orange Digital Center On Egypt
+-  **Dec 2022- Dec2023** : كالبنيان المرصوص Internship as a Software Engineer 
+-  **Jun 2022 - Aug 2022** : egFWD Internship as a Web Developer
+  
+
+  
 
 
 ---
@@ -87,7 +132,7 @@ Clean, structured, and maintainable code
 
 I'm always open to new opportunities and collaborations! Feel free to connect with me:
 
-- **Email**: [abdo23027@gmail.com](mailto:abdo23027@gmail.com)
+- **Email**: [abdelrahmanalamelden@gmail.com](mailto:abdelrahmanalamelden@gmail.com)
 - **LinkedIn**: [linkedin.com/in/abdelrahmanalamelden](https://www.linkedin.com/in/abdelrahmanalamelden/)
 - **Twitter**: [@abdoalamelden](https://twitter.com/abdoalamelden)
 
