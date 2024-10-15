@@ -53,6 +53,8 @@ contribute to innovative teams where I can leverage my expertise to drive impact
 
 ### [Resturant Website - a Full-Stack Web Development Project! 🍽️](https://github.com/abdelrahmanalamelden/Restaurant-Website/tree/master)
 ![Screenshot (56)](https://github.com/user-attachments/assets/195f1814-2505-4130-9c30-5093eb341105)
+
+
 I'm excited to share my latest project, a fully functional Food Ordering Platform with a range of features aimed at providing a seamless user and admin experience
 Role: Front-end Developer 👨‍💻
 Technologies Used: HTML, CSS, JavaScript, Typescript , Angular , Node.js, Express, MONGODB 📜
@@ -97,6 +99,8 @@ Enhanced my ability to write clean, efficient, and maintainable code 🧼📝
 
 ### [📚 Omnifood - Responsive Restaurant Website](https://github.com/abdelrahmanalamelden/omnifood-project)
 ![app-screen-1](https://github.com/user-attachments/assets/6278efbc-ca33-4e3b-869b-fc8596b695c1)
+
+
 Developed 'Omnifood,' a fully responsive restaurant website using HTML, CSS, and JavaScript. The project emphasizes modern web design principles and best practices, offering a seamless user experience across all devices. Key features include interactive elements, smooth scrolling, and an intuitive layout that enhances user engagement.
 Role: Front-end Developer
 Technologies Used: HTML, CSS, JavaScript
