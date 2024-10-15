@@ -52,7 +52,7 @@ contribute to innovative teams where I can leverage my expertise to drive impact
 ## 🚀 Featured Projects
 
 ### [Resturant Website - a Full-Stack Web Development Project! 🍽️](https://github.com/abdelrahmanalamelden/Restaurant-Website/tree/master)
-![Screenshot (56)](https://www.figma.com/proto/90nADs8grMDEjdEHOUWFEZ/Food---Website-Design-(Community)-(Community)?node-id=0-655&node-type=frame&t=93SiPR5Ql5lgOtgQ-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
+![Screenshot (56)](https://github.com/user-attachments/assets/195f1814-2505-4130-9c30-5093eb341105)
 I'm excited to share my latest project, a fully functional Food Ordering Platform with a range of features aimed at providing a seamless user and admin experience
 Role: Front-end Developer 👨‍💻
 Technologies Used: HTML, CSS, JavaScript, Typescript , Angular , Node.js, Express, MONGODB 📜
