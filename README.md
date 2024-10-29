@@ -74,7 +74,36 @@ Key Learnings: 📈
 - Gained hands-on experience with modern tools and technologies in web development. 🛠️
 
 
+### [Resturant Website - a Full-Stack Web Development Project! 🍽️](https://github.com/abdelrahmanalamelden/Restaurant-Website/tree/master)
+![Screenshot (56)](https://github.com/user-attachments/assets/195f1814-2505-4130-9c30-5093eb341105)
 
+I'm excited to share my latest project, a fully functional Food Ordering Platform with a range of features aimed at providing a seamless user and admin experience
+Role: Front-end Developer 👨‍💻
+Technologies Used: HTML, CSS, JavaScript, Typescript , Angular , Node.js, Express, MONGODB 📜
+
+Key Features:
+
+🔑 Authentication & Security:
+
+- User registration and login implemented with JWT (JSON Web Tokens) for secure session management.
+- Password hashing using bcrypt to ensure user data is safely stored.
+
+📄 Data Management:
+
+- Integrated with MongoDB for storing and retrieving meal data.
+- Built API routes for fetching meal data to dynamically update the meals page.
+
+  
+👨‍💼 Admin Panel:
+
+- Admin users can add, update, and delete meals directly through the platform.
+- Implemented route protection to secure admin-specific functionalities.
+
+  
+🌐 Full-Stack Expertise:
+
+- Front-end developed using Angular for a responsive user interface.
+- Back-end built with Node.js, Express, and MongoDB to ensure efficient data handling and API integration.
 
 
 
