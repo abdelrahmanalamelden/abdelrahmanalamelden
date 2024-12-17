@@ -141,8 +141,8 @@ Clean, structured, and maintainable code
 ---
 
 ## 🧩 My Coding Journey
-
--  **Aug 2024- Current** : Internship at Orange Digital Center On Egypt
+-  **Aug 2024- Current** : Frontend Developer at BlueDesk Group
+-  **Jul 2024- Oct 2024** : Internship at Orange Digital Center On Egypt
 -  **Dec 2022- Dec2023** : كالبنيان المرصوص Internship as a Software Engineer 
 -  **Jun 2022 - Aug 2022** : egFWD Internship as a Web Developer
   
